@@ -6,3 +6,5 @@ const test3 = "new test"
 console.log("testing with  data")
 
 const test4 = "new test"
+
+console.log("switch mapo")
