@@ -1,6 +1,3 @@
-const data = 10
+console.log("testing")
 
-const dist = 15
-
-
-const daaj = 13457
+const test = "new test"
