@@ -3,3 +3,5 @@ console.log("testing")
 
 
 const test2 = "new test"
+
+console.log("testing 3")
