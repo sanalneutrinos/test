@@ -1,0 +1,9 @@
+{
+    "taskType": "bpmn:UserTask",
+    "taskName": "Finance Department Processing",
+    "taskDefinitionId": "_D7AA4051-9661-4F16-9232-D2AFA3D4CC25",
+    "taskProcessDefinitionId": "_FBDF962D-8A10-4880-81AE-858D84C0AF15",
+    "metadata": {},
+    "updatedAt": "2024-01-03T09:51:58.039Z",
+    "status": "INCOMPLETE"
+}

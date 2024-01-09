@@ -1,0 +1,26 @@
+{
+    "processName": "Event Sub-process",
+    "processDefinitionId": "_4911CEDA-BC01-49E7-8D65-E75DCAD760F2",
+    "processType": "bpmn:SubProcess",
+    "taskDefinitions": [
+        {
+            "taskType": "bpmn:ScriptTask",
+            "taskName": "Get Documents from Customer",
+            "taskDefinitionId": "_C1171487-8B9C-4B13-AA64-C0E04F5960F8",
+            "taskProcessDefinitionId": "_4911CEDA-BC01-49E7-8D65-E75DCAD760F2",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.656Z",
+            "status": "INCOMPLETE"
+        },
+        {
+            "taskType": "bpmn:ScriptTask",
+            "taskName": "Issue Policy",
+            "taskDefinitionId": "_2E2945AD-89A0-4A3C-BEFA-49AC2DE0FE8E",
+            "taskProcessDefinitionId": "_4911CEDA-BC01-49E7-8D65-E75DCAD760F2",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.656Z",
+            "status": "INCOMPLETE"
+        }
+    ],
+    "metadata": {}
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Process",
+    "nonActiveIcon": "model-non-active.svg",
+    "activeIcon": "model-active.svg",
+    "componentName": "BpmComponent",
+    "componentRoute": "bpm/human-tasks"
+  },
+  {
+    "name": "Model",
+    "nonActiveIcon": "processBriefcase.svg",
+    "activeIcon": "briefCase.svg",
+    "componentName": "AlphaJsonSchemaEditorComponent",
+    "componentRoute": ""
+  },
+  {
+    "name": "Pages",
+    "nonActiveIcon": "pages-non-active.svg",
+    "activeIcon": "pages-active.svg",
+    "componentName": "PagesComponent",
+    "componentRoute": ""
+  }
+]

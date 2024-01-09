@@ -1,0 +1,9 @@
+{
+    "taskType": "bpmn:UserTask",
+    "taskName": "Underwriting",
+    "taskDefinitionId": "_B557DC86-4AC3-403E-9CC6-A0E1FF033B12",
+    "taskProcessDefinitionId": "BPM_Training_Day_2.event_sub_process",
+    "metadata": {},
+    "updatedAt": "2024-01-03T09:51:58.656Z",
+    "status": "INCOMPLETE"
+}

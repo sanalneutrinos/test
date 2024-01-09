@@ -1,0 +1,21 @@
+{
+    "processName": "reusable_sub_process",
+    "processDefinitionId": "BPM_Training_Day_2.reusable_sub_process",
+    "processType": "bpmn:Process",
+    "taskDefinitions": [
+        {
+            "taskType": "bpmn:ScriptTask",
+            "taskName": "Post Log",
+            "taskDefinitionId": "_EA22A459-7898-4754-A973-0B284978B9C8",
+            "taskProcessDefinitionId": "BPM_Training_Day_2.reusable_sub_process",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.918Z",
+            "status": "INCOMPLETE"
+        }
+    ],
+    "metadata": {
+        "drools:packageName": "com.myspace.bpm_training_day_2",
+        "drools:version": "1.0",
+        "drools:adHoc": "false"
+    }
+}

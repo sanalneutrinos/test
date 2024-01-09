@@ -1,0 +1,11 @@
+{
+    "taskType": "bpmn:Task",
+    "taskName": "Get Group",
+    "taskDefinitionId": "_133E28CD-C679-4002-B02D-F34249CE48B9",
+    "taskProcessDefinitionId": "BPM_Training_Day_2.rest_process",
+    "metadata": {
+        "drools:taskName": "Rest"
+    },
+    "updatedAt": "2024-01-03T09:51:58.825Z",
+    "status": "INCOMPLETE"
+}

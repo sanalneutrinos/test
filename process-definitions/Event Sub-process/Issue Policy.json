@@ -1,0 +1,9 @@
+{
+    "taskType": "bpmn:ScriptTask",
+    "taskName": "Issue Policy",
+    "taskDefinitionId": "_2E2945AD-89A0-4A3C-BEFA-49AC2DE0FE8E",
+    "taskProcessDefinitionId": "_4911CEDA-BC01-49E7-8D65-E75DCAD760F2",
+    "metadata": {},
+    "updatedAt": "2024-01-03T09:51:58.656Z",
+    "status": "INCOMPLETE"
+}

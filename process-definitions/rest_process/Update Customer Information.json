@@ -1,0 +1,11 @@
+{
+    "taskType": "bpmn:Task",
+    "taskName": "Update Customer Information",
+    "taskDefinitionId": "_51BF5FB5-CF2B-4E04-B506-F6355AFFD033",
+    "taskProcessDefinitionId": "BPM_Training_Day_2.rest_process",
+    "metadata": {
+        "drools:taskName": "Rest"
+    },
+    "updatedAt": "2024-01-03T09:51:58.824Z",
+    "status": "INCOMPLETE"
+}

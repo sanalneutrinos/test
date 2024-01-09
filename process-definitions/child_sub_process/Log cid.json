@@ -1,0 +1,9 @@
+{
+    "taskType": "bpmn:ScriptTask",
+    "taskName": "Log cid",
+    "taskDefinitionId": "_BB71A300-AC3D-4507-8024-D7C867643FFC",
+    "taskProcessDefinitionId": "BPM_Training_Day_2.child_sub_process",
+    "metadata": {},
+    "updatedAt": "2024-01-03T09:51:58.441Z",
+    "status": "INCOMPLETE"
+}

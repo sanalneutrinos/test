@@ -1,0 +1,17 @@
+{
+    "processName": "Claim Closure",
+    "processDefinitionId": "_6C47DB56-C42B-40C1-B0DF-89761A2E6875",
+    "processType": "bpmn:SubProcess",
+    "taskDefinitions": [
+        {
+            "taskType": "bpmn:UserTask",
+            "taskName": "Claims Processor Final Review",
+            "taskDefinitionId": "_AE598B94-832A-4E9E-B225-6D2960138B58",
+            "taskProcessDefinitionId": "_6C47DB56-C42B-40C1-B0DF-89761A2E6875",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.038Z",
+            "status": "INCOMPLETE"
+        }
+    ],
+    "metadata": {}
+}

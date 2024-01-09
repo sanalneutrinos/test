@@ -1,0 +1,11 @@
+{
+    "processName": "assignment 2",
+    "processDefinitionId": "bpmAssignment2.assignment2",
+    "processType": "bpmn:Process",
+    "taskDefinitions": [],
+    "metadata": {
+        "drools:packageName": "com.myspace.bpmassignment2",
+        "drools:version": "1.0",
+        "drools:adHoc": "false"
+    }
+}

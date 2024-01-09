@@ -1,0 +1,17 @@
+{
+    "processName": "Claim Appraisal",
+    "processDefinitionId": "_5DC36A20-9417-48B2-8088-89BB5E25D0BF",
+    "processType": "bpmn:SubProcess",
+    "taskDefinitions": [
+        {
+            "taskType": "bpmn:UserTask",
+            "taskName": "Appraiser Review",
+            "taskDefinitionId": "_25BBC417-265D-410A-BDA7-E3F610A4F43B",
+            "taskProcessDefinitionId": "_5DC36A20-9417-48B2-8088-89BB5E25D0BF",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.039Z",
+            "status": "INCOMPLETE"
+        }
+    ],
+    "metadata": {}
+}

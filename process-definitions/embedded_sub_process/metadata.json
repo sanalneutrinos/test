@@ -1,0 +1,11 @@
+{
+    "processName": "embedded_sub_process",
+    "processDefinitionId": "BPM_Training_Day_2.embedded_sub_process",
+    "processType": "bpmn:Process",
+    "taskDefinitions": [],
+    "metadata": {
+        "drools:packageName": "com.myspace.bpm_training_day_2",
+        "drools:version": "1.0",
+        "drools:adHoc": "false"
+    }
+}

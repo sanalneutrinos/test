@@ -1,0 +1,30 @@
+{
+    "processName": "event_sub_process",
+    "processDefinitionId": "BPM_Training_Day_2.event_sub_process",
+    "processType": "bpmn:Process",
+    "taskDefinitions": [
+        {
+            "taskType": "bpmn:UserTask",
+            "taskName": "Underwriting",
+            "taskDefinitionId": "_B557DC86-4AC3-403E-9CC6-A0E1FF033B12",
+            "taskProcessDefinitionId": "BPM_Training_Day_2.event_sub_process",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.656Z",
+            "status": "INCOMPLETE"
+        },
+        {
+            "taskType": "bpmn:ScriptTask",
+            "taskName": "Issue Policy",
+            "taskDefinitionId": "_1649912C-C223-426A-AC67-9A4904A9C6AA",
+            "taskProcessDefinitionId": "BPM_Training_Day_2.event_sub_process",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.656Z",
+            "status": "INCOMPLETE"
+        }
+    ],
+    "metadata": {
+        "drools:packageName": "com.myspace.bpm_training_day_2",
+        "drools:version": "1.0",
+        "drools:adHoc": "false"
+    }
+}

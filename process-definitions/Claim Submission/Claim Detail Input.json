@@ -1,0 +1,9 @@
+{
+    "taskType": "bpmn:UserTask",
+    "taskName": "Claim Detail Input",
+    "taskDefinitionId": "_3D072142-63F7-437A-A900-9EC04BA85485",
+    "taskProcessDefinitionId": "_43148D80-159C-4B8C-AB5F-32C30FE04521",
+    "metadata": {},
+    "updatedAt": "2024-01-03T09:51:58.039Z",
+    "status": "INCOMPLETE"
+}

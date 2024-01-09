@@ -1,0 +1,21 @@
+{
+    "processName": "rest_error_process",
+    "processDefinitionId": "BPM_Training_Day_2.rest_error_process",
+    "processType": "bpmn:Process",
+    "taskDefinitions": [
+        {
+            "taskType": "bpmn:UserTask",
+            "taskName": "Admin",
+            "taskDefinitionId": "_9EAC7CD2-6512-4F0A-A357-8E92CEE9F4E4",
+            "taskProcessDefinitionId": "BPM_Training_Day_2.rest_error_process",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.773Z",
+            "status": "INCOMPLETE"
+        }
+    ],
+    "metadata": {
+        "drools:packageName": "com.myspace.bpm_training_day_2",
+        "drools:version": "1.0",
+        "drools:adHoc": "false"
+    }
+}

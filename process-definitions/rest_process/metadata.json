@@ -1,0 +1,61 @@
+{
+    "processName": "rest_process",
+    "processDefinitionId": "BPM_Training_Day_2.rest_process",
+    "processType": "bpmn:Process",
+    "taskDefinitions": [
+        {
+            "taskType": "bpmn:Task",
+            "taskName": "Update Customer Information",
+            "taskDefinitionId": "_51BF5FB5-CF2B-4E04-B506-F6355AFFD033",
+            "taskProcessDefinitionId": "BPM_Training_Day_2.rest_process",
+            "metadata": {
+                "drools:taskName": "Rest"
+            },
+            "updatedAt": "2024-01-03T09:51:58.824Z",
+            "status": "INCOMPLETE"
+        },
+        {
+            "taskType": "bpmn:UserTask",
+            "taskName": "Underwriting",
+            "taskDefinitionId": "_23FB7521-BF41-4486-9606-EAE3CFAE8489",
+            "taskProcessDefinitionId": "BPM_Training_Day_2.rest_process",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.824Z",
+            "status": "INCOMPLETE"
+        },
+        {
+            "taskType": "bpmn:ScriptTask",
+            "taskName": "INIT",
+            "taskDefinitionId": "_62AFD35A-BA51-422C-BB6C-39F3345005F4",
+            "taskProcessDefinitionId": "BPM_Training_Day_2.rest_process",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.824Z",
+            "status": "INCOMPLETE"
+        },
+        {
+            "taskType": "bpmn:Task",
+            "taskName": "Get Group",
+            "taskDefinitionId": "_133E28CD-C679-4002-B02D-F34249CE48B9",
+            "taskProcessDefinitionId": "BPM_Training_Day_2.rest_process",
+            "metadata": {
+                "drools:taskName": "Rest"
+            },
+            "updatedAt": "2024-01-03T09:51:58.825Z",
+            "status": "INCOMPLETE"
+        },
+        {
+            "taskType": "bpmn:ScriptTask",
+            "taskName": "Issue Policy",
+            "taskDefinitionId": "_58E86637-1F92-449C-8B94-E4C6FD493792",
+            "taskProcessDefinitionId": "BPM_Training_Day_2.rest_process",
+            "metadata": {},
+            "updatedAt": "2024-01-03T09:51:58.825Z",
+            "status": "INCOMPLETE"
+        }
+    ],
+    "metadata": {
+        "drools:packageName": "com.myspace.bpm_training_day_2",
+        "drools:version": "1.0",
+        "drools:adHoc": "false"
+    }
+}

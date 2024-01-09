@@ -1,0 +1,9 @@
+{
+    "taskType": "bpmn:ScriptTask",
+    "taskName": "Issue Policy",
+    "taskDefinitionId": "_1649912C-C223-426A-AC67-9A4904A9C6AA",
+    "taskProcessDefinitionId": "BPM_Training_Day_2.event_sub_process",
+    "metadata": {},
+    "updatedAt": "2024-01-03T09:51:58.656Z",
+    "status": "INCOMPLETE"
+}

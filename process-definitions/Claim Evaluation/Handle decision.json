@@ -1,0 +1,9 @@
+{
+    "taskType": "bpmn:ScriptTask",
+    "taskName": "Handle decision",
+    "taskDefinitionId": "_B3C25032-30AB-48A3-8477-A293DF227EF7",
+    "taskProcessDefinitionId": "_0868605E-7345-4FAA-8A0C-AB81CD1327E8",
+    "metadata": {},
+    "updatedAt": "2024-01-03T09:51:58.038Z",
+    "status": "INCOMPLETE"
+}
