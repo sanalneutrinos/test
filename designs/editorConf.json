@@ -11,13 +11,20 @@
     "nonActiveIcon": "processBriefcase.svg",
     "activeIcon": "briefCase.svg",
     "componentName": "AlphaJsonSchemaEditorComponent",
-    "componentRoute": ""
+    "componentRoute": "model"
   },
   {
     "name": "Pages",
     "nonActiveIcon": "pages-non-active.svg",
     "activeIcon": "pages-active.svg",
     "componentName": "PagesComponent",
-    "componentRoute": ""
+    "componentRoute": "pages"
+  },
+  {
+    "name": "Styles",
+    "nonActiveIcon": "styles-non-active.svg",
+    "activeIcon": "styles-active.svg",
+    "componentName": "StylesComponent",
+    "componentRoute": "style"
   }
 ]
